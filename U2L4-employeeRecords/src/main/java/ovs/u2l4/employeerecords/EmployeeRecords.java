@@ -1,7 +1,5 @@
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 2 Lesson 4, employee Records Assignment
-//Date of Completion: September 30th 2024
+
 //Description: this is a program where a user enters different information as an
 //employee. The user can then see all their info added in a list and can also 
 //find different employees through the list by simply using the find employee feature
